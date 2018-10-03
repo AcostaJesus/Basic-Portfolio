@@ -1,0 +1,32 @@
+h1 {
+    padding-bottom: 30px;
+    padding-top: 30px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 30%;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4aaaa5;
+}
+
+li{
+    float: right;
+}
+li a {
+    display: inline;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 30px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-clip: #111;
+}
